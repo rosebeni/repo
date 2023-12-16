@@ -1,0 +1,8 @@
+2023-12-04 05:33:05.250 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-04 05:33:05.250 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-04 05:33:05.250 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-12-04 05:33:05.250 [info] Experiment 'pythonTestAdapter' is active
+2023-12-04 05:33:05.317 [info] Default formatter is set to null for workspace /var/www
+2023-12-04 05:33:05.814 [info] Test server listening.
+2023-12-04 05:33:05.815 [info] Python interpreter path: /usr/bin/python
+2023-12-04 05:33:08.981 [info] Starting Pylance language server.

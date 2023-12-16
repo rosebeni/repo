@@ -1,0 +1,32 @@
+2023-12-15 08:26:07.057 [info] Log level: Info
+2023-12-15 08:26:07.057 [info] Validating found git in: "git"
+2023-12-15 08:26:07.057 [info] Using git "2.34.1" from "git"
+2023-12-15 08:26:07.057 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-15 08:26:07.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-15 08:26:07.058 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-15 08:26:07.067 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-15 08:26:07.081 [info] Open repository: /var/www/abac/projects
+2023-12-15 08:26:07.100 [info] > git config --get commit.template [9ms]
+2023-12-15 08:26:07.110 [info] No remotes found in the git config file.
+2023-12-15 08:26:07.112 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-15 08:26:07.112 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-15 08:26:07.182 [info] > git rev-parse --show-toplevel [46ms]
+2023-12-15 08:26:07.183 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-15 08:26:07.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [80ms]
+2023-12-15 08:26:07.236 [info] > git status -z -uall [34ms]
+2023-12-15 08:26:07.310 [info] > git rev-parse --show-toplevel [89ms]
+2023-12-15 08:26:07.310 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-15 08:26:07.861 [info] > git config --get commit.template [551ms]
+2023-12-15 08:26:07.875 [info] No remotes found in the git config file.
+2023-12-15 08:26:07.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [15ms]
+2023-12-15 08:26:07.911 [info] > git status -z -uall [14ms]
+2023-12-15 08:26:08.015 [info] > git show --textconv :index.html [8ms]
+2023-12-15 08:26:08.020 [info] > git ls-files --stage -- /var/www/abac/projects/index.html [6ms]
+2023-12-15 08:26:08.244 [info] > git cat-file -s 974c59898de239bd8543f450554972792483a9cd [216ms]
+2023-12-15 08:26:08.393 [info] > git check-ignore -v -z --stdin [1ms]
+2023-12-15 08:27:16.078 [info] > git config --get commit.template [2ms]
+2023-12-15 08:27:16.087 [info] No remotes found in the git config file.
+2023-12-15 08:27:16.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [1ms]
+2023-12-15 08:27:16.103 [info] > git status -z -uall [8ms]
+2023-12-15 08:29:27.863 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-15 08:29:27.863 [info] fatal: not a git repository (or any of the parent directories): .git

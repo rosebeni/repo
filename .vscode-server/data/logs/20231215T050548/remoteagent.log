@@ -1,0 +1,71 @@
+2023-12-15 05:05:48.684 [info] 
+
+
+
+
+2023-12-15 05:05:48.684 [error] Error: Unable to retrieve mac address (unexpected format)
+    at C (/home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:85:3525)
+    at v (/home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:91:7766)
+    at async /home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:91:7642
+2023-12-15 05:05:48.760 [info] Extension host agent started.
+2023-12-15 05:05:48.890 [info] [127.0.0.1][7254d5a3][ManagementConnection] New connection established.
+2023-12-15 05:05:48.964 [info] [127.0.0.1][548253fd][ExtensionHostConnection] New connection established.
+2023-12-15 05:05:49.113 [info] [127.0.0.1][548253fd][ExtensionHostConnection] <271418> Launched Extension Host Process.
+2023-12-15 05:05:52.444 [info] Getting Manifest... ms-python.python
+2023-12-15 05:05:52.445 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-15 05:05:52.462 [error] Failed to install extension. ms-python.python
+2023-12-15 05:05:52.463 [error] Error: getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2023-12-15 05:05:52.469 [error] Failed to install extension. ms-python.vscode-pylance
+2023-12-15 05:05:52.469 [error] Error: getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2023-12-15 05:06:07.628 [info] Downloaded extension to file:///home/beni/.vscode-server/data/CachedExtensionVSIXs/e92fd8c2-4b22-430f-bc22-e20009507d11
+2023-12-15 05:06:07.656 [info] Installing extension: ms-python.python
+2023-12-15 05:06:07.656 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-12-15 05:06:07.804 [info] Downloaded extension to file:///home/beni/.vscode-server/data/CachedExtensionVSIXs/d6e1f5a9-1bb8-4121-9fc7-02800f1592a9
+2023-12-15 05:06:09.216 [info] Installing extension: ms-python.vscode-pylance
+2023-12-15 05:06:09.216 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-12-15 05:06:10.591 [info] [127.0.0.1][7254d5a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-15 05:06:10.787 [info] [127.0.0.1][548253fd][ExtensionHostConnection] <271418> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 05:06:10.788 [info] Cancelling previous shutdown timeout
+2023-12-15 05:06:10.788 [info] Last EH closed, waiting before shutting down
+2023-12-15 05:06:12.173 [info] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.python-2023.22.1: ms-python.python
+2023-12-15 05:06:12.201 [info] Renamed to /home/beni/.vscode-server/extensions/ms-python.python-2023.22.1
+2023-12-15 05:06:12.209 [info] Extracting extension completed. ms-python.python
+2023-12-15 05:06:12.220 [info] Extension installed successfully: ms-python.python
+2023-12-15 05:06:12.243 [info] Marked extension as uninstalled ms-python.python-2023.20.0
+2023-12-15 05:06:14.915 [info] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2023-12-15 05:06:14.931 [info] Renamed to /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+2023-12-15 05:06:14.935 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-15 05:06:14.947 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-15 05:06:14.960 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.11.10
+2023-12-15 05:06:16.291 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-15 05:06:16.291 [info] Cancelling previous shutdown timeout
+2023-12-15 05:06:16.492 [info] [127.0.0.1][306ed134][ManagementConnection] New connection established.
+2023-12-15 05:06:16.662 [info] [127.0.0.1][14179cca][ExtensionHostConnection] New connection established.
+2023-12-15 05:06:16.688 [info] [127.0.0.1][14179cca][ExtensionHostConnection] <271657> Launched Extension Host Process.
+2023-12-15 05:11:16.292 [info] New EH opened, aborting shutdown
+2023-12-15 05:21:16.241 [info] [127.0.0.1][14179cca][ExtensionHostConnection] The client has reconnected.
+2023-12-15 05:48:10.094 [info] [127.0.0.1][5b1a0e42][ManagementConnection] New connection established.
+2023-12-15 05:48:10.243 [info] [127.0.0.1][4894d13f][ExtensionHostConnection] New connection established.
+2023-12-15 05:48:10.279 [info] [127.0.0.1][4894d13f][ExtensionHostConnection] <273106> Launched Extension Host Process.
+2023-12-15 05:53:10.915 [info] [127.0.0.1][14179cca][ExtensionHostConnection] <271657> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 06:25:23.242 [info] [127.0.0.1][4894d13f][ExtensionHostConnection] The client has reconnected.
+2023-12-15 08:26:04.023 [info] [127.0.0.1][e2cacce8][ManagementConnection] New connection established.
+2023-12-15 08:26:04.220 [info] [127.0.0.1][1e56fb49][ExtensionHostConnection] New connection established.
+2023-12-15 08:26:04.250 [info] [127.0.0.1][1e56fb49][ExtensionHostConnection] <279929> Launched Extension Host Process.
+2023-12-15 08:30:13.448 [info] [127.0.0.1][2fb5a10e][ManagementConnection] New connection established.
+2023-12-15 08:30:13.641 [info] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] New connection established.
+2023-12-15 08:30:13.722 [info] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] <280435> Launched Extension Host Process.
+2023-12-15 08:30:25.133 [info] [127.0.0.1][2fb5a10e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-15 08:30:25.245 [info] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] <280435> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 08:30:26.498 [info] [127.0.0.1][536d56b5][ManagementConnection] New connection established.
+2023-12-15 08:30:26.640 [info] [127.0.0.1][00c5466d][ExtensionHostConnection] New connection established.
+2023-12-15 08:30:26.674 [info] [127.0.0.1][00c5466d][ExtensionHostConnection] <280470> Launched Extension Host Process.
+2023-12-15 08:31:04.596 [info] [127.0.0.1][4894d13f][ExtensionHostConnection] <273106> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 08:32:07.770 [info] [127.0.0.1][536d56b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-15 08:32:07.851 [info] [127.0.0.1][00c5466d][ExtensionHostConnection] <280470> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 08:32:11.906 [info] [127.0.0.1][e2cacce8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-15 08:32:12.082 [info] [127.0.0.1][1e56fb49][ExtensionHostConnection] <279929> Extension Host Process exited with code: 0, signal: null.
+2023-12-15 08:32:12.082 [info] Last EH closed, waiting before shutting down
+2023-12-15 08:37:12.084 [info] Last EH closed, shutting down

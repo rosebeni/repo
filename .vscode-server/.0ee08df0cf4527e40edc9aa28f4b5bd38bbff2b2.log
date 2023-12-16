@@ -1,0 +1,122 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:34299 (IPv4)
+Extension host agent listening on 34299
+
+[05:05:48] 
+
+
+
+
+[05:05:48] Error: Unable to retrieve mac address (unexpected format)
+    at C (/home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:85:3525)
+    at v (/home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:91:7766)
+    at async /home/beni/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/server/node/server.main.js:91:7642
+[05:05:48] Extension host agent started.
+[05:05:48] [127.0.0.1][7254d5a3][ManagementConnection] New connection established.
+[05:05:48] [127.0.0.1][548253fd][ExtensionHostConnection] New connection established.
+[05:05:49] [127.0.0.1][548253fd][ExtensionHostConnection] <271418> Launched Extension Host Process.
+[05:05:52] Getting Manifest... ms-python.python
+[05:05:52] Getting Manifest... ms-python.vscode-pylance
+[05:05:52] Failed to install extension. ms-python.python
+[05:05:52] Error: getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'ms-python.gallery.vsassets.io'
+}
+[05:05:52] Failed to install extension. ms-python.vscode-pylance
+[05:05:52] Error: getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26) {
+  errno: -3001,
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'ms-python.gallery.vsassets.io'
+}
+[05:06:07] Downloaded extension to file:///home/beni/.vscode-server/data/CachedExtensionVSIXs/e92fd8c2-4b22-430f-bc22-e20009507d11
+[05:06:07] Installing extension: ms-python.python
+[05:06:07] Installing the extension without checking dependencies and pack ms-python.python
+[05:06:07] Downloaded extension to file:///home/beni/.vscode-server/data/CachedExtensionVSIXs/d6e1f5a9-1bb8-4121-9fc7-02800f1592a9
+[05:06:09] Installing extension: ms-python.vscode-pylance
+[05:06:09] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+[05:06:10] [127.0.0.1][7254d5a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:06:10] [127.0.0.1][548253fd][ExtensionHostConnection] <271418> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:06:10] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:06:10] Last EH closed, waiting before shutting down
+[05:06:12] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.python-2023.22.1: ms-python.python
+[05:06:12] Renamed to /home/beni/.vscode-server/extensions/ms-python.python-2023.22.1
+[05:06:12] Extracting extension completed. ms-python.python
+[05:06:12] Extension installed successfully: ms-python.python
+[05:06:12] Marked extension as uninstalled ms-python.python-2023.20.0
+[05:06:14] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+[05:06:14] Renamed to /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+[05:06:14] Extracting extension completed. ms-python.vscode-pylance
+[05:06:14] Extension installed successfully: ms-python.vscode-pylance
+[05:06:14] Marked extension as uninstalled ms-python.vscode-pylance-2023.11.10
+Got delay-shutdown request while in shutdown timeout, delaying
+[05:06:16] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[05:06:16] Cancelling previous shutdown timeout
+[05:06:16] [127.0.0.1][306ed134][ManagementConnection] New connection established.
+[05:06:16] [127.0.0.1][14179cca][ExtensionHostConnection] New connection established.
+[05:06:16] [127.0.0.1][14179cca][ExtensionHostConnection] <271657> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[05:11:16] New EH opened, aborting shutdown
+[05:21:16] [127.0.0.1][14179cca][ExtensionHostConnection] The client has reconnected.
+[05:48:10] [127.0.0.1][5b1a0e42][ManagementConnection] New connection established.
+[05:48:10] [127.0.0.1][4894d13f][ExtensionHostConnection] New connection established.
+[05:48:10] [127.0.0.1][4894d13f][ExtensionHostConnection] <273106> Launched Extension Host Process.
+[05:53:10] [127.0.0.1][14179cca][ExtensionHostConnection] <271657> Extension Host Process exited with code: 0, signal: null.
+[06:25:23] [127.0.0.1][4894d13f][ExtensionHostConnection] The client has reconnected.
+[08:26:04] [127.0.0.1][e2cacce8][ManagementConnection] New connection established.
+[08:26:04] [127.0.0.1][1e56fb49][ExtensionHostConnection] New connection established.
+[08:26:04] [127.0.0.1][1e56fb49][ExtensionHostConnection] <279929> Launched Extension Host Process.
+[08:30:13] [127.0.0.1][2fb5a10e][ManagementConnection] New connection established.
+[08:30:13] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] New connection established.
+[08:30:13] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] <280435> Launched Extension Host Process.
+[08:30:25] [127.0.0.1][2fb5a10e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:30:25] [127.0.0.1][2ed3d6c6][ExtensionHostConnection] <280435> Extension Host Process exited with code: 0, signal: null.
+[08:30:26] [127.0.0.1][536d56b5][ManagementConnection] New connection established.
+[08:30:26] [127.0.0.1][00c5466d][ExtensionHostConnection] New connection established.
+[08:30:26] [127.0.0.1][00c5466d][ExtensionHostConnection] <280470> Launched Extension Host Process.
+[08:31:04] [127.0.0.1][4894d13f][ExtensionHostConnection] <273106> Extension Host Process exited with code: 0, signal: null.
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/etc/letsencrypt/accounts'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/etc/letsencrypt/accounts'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/etc/letsencrypt/archive'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/etc/letsencrypt/archive'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/etc/letsencrypt/keys'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/etc/letsencrypt/keys'
+}
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/etc/letsencrypt/live'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/etc/letsencrypt/live'
+}
+[08:32:07] [127.0.0.1][536d56b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:32:07] [127.0.0.1][00c5466d][ExtensionHostConnection] <280470> Extension Host Process exited with code: 0, signal: null.
+[08:32:11] [127.0.0.1][e2cacce8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:32:12] [127.0.0.1][1e56fb49][ExtensionHostConnection] <279929> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:32:12] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[08:37:12] Last EH closed, shutting down

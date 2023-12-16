@@ -1,0 +1,20 @@
+2023-12-01 07:09:53.793 [info] Extension host with pid 5351 started
+2023-12-01 07:09:53.793 [error] Error: EEXIST: file already exists, open '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde/vscode.lock'
+2023-12-01 07:09:53.796 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-01 07:09:53.806 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde/vscode.lock': The lock does not look stale, elapsed: 18 ms, giving up.
+2023-12-01 07:09:53.807 [error] Error: EEXIST: file already exists, open '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock'
+2023-12-01 07:09:53.808 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-01 07:09:53.809 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock': The pid 12618 appears to be gone.
+2023-12-01 07:09:53.809 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock': Deleting a stale lock.
+2023-12-01 07:09:53.832 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock': Lock acquired.
+2023-12-01 07:09:53.871 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-01 07:09:53.872 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-01 07:09:54.695 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-01 07:09:54.777 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-01 07:09:54.777 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-01 07:09:55.110 [info] Eager extensions activated
+2023-12-01 07:09:55.110 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 07:09:55.111 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 08:40:21.328 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-12-01 08:40:21.329 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/da934c20d82b3bb2db50078f0eabbfde-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-01 08:40:21.391 [info] Extension host with pid 5351 exiting with code 0

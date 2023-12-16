@@ -1,0 +1,13 @@
+2023-12-03 11:23:49.632 [info] [Info  - 11:23:49 AM] (118454) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-03 11:23:49.640 [info] [Info  - 11:23:49 AM] (118454) Server root directory: /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-03 11:23:49.640 [info] [Info  - 11:23:49 AM] (118454) Starting service instance "www"
+2023-12-03 11:23:49.698 [info] [Info  - 11:23:49 AM] (118454) Setting pythonPath for service "www": "/usr/bin/python"
+2023-12-03 11:23:49.698 [info] [Info  - 11:23:49 AM] (118454) Setting environmentName for service "www": "2.7.16 (global)"
+2023-12-03 11:23:49.757 [info] [Info  - 11:23:49 AM] (118454) Assuming Python version 3.10
+2023-12-03 11:23:49.835 [info] [Info  - 11:23:49 AM] (118454) Auto-excluding /var/www/abac/crm/myworld
+2023-12-03 11:23:49.843 [info] [Info  - 11:23:49 AM] (118454) Found 20 source files
+2023-12-03 11:23:53.725 [info] [Info  - 11:23:53 AM] (118454) [BG(1)] Long operation: checking: /var/www/abac/crm/dcrm/mydb.py (2485ms)
+2023-12-03 11:23:53.725 [info] [Info  - 11:23:53 AM] (118454) [BG(1)] Long operation: analyzing: /var/www/abac/crm/dcrm/mydb.py (2944ms)
+2023-12-03 11:59:12.086 [info] [Info  - 11:59:12 AM] (118454) [BG(1)] Long operation: analyzing: /var/www/abac/crm/dcrm/mydb.py (2196ms)
+2023-12-03 12:07:01.682 [info] [Info  - 12:07:01 PM] (118454) Found 8 source files
+2023-12-03 12:07:03.762 [info] [Info  - 12:07:03 PM] (118454) [BG(1)] Long operation: analyzing: /var/www/abac/crm/dcrm/mydb.py (2069ms)

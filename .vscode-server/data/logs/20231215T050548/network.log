@@ -1,0 +1,15 @@
+2023-12-15 05:05:49.198 [error] node #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net
+2023-12-15 05:05:50.859 [error] node #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:05:52.451 [error] node #3: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2023.22.1/1702504583644/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallerycdn.vsassets.io
+2023-12-15 05:05:52.459 [error] node #4: https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/vscode-pylance/2023.12.1/1702512861819/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallerycdn.vsassets.io
+2023-12-15 05:05:52.462 [error] node #5: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/python/2023.22.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+2023-12-15 05:05:52.469 [error] node #6: https://ms-python.gallery.vsassets.io/_apis/public/gallery/publisher/ms-python/extension/vscode-pylance/2023.12.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET getaddrinfo EAI_AGAIN ms-python.gallery.vsassets.io
+2023-12-15 05:05:54.019 [error] node #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:06:00.219 [error] node #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:06:03.389 [error] node #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:06:12.222 [error] node #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST getaddrinfo EAI_AGAIN marketplace.visualstudio.com
+2023-12-15 05:06:14.950 [error] node #11: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST getaddrinfo EAI_AGAIN marketplace.visualstudio.com
+2023-12-15 05:06:24.981 [error] node #12: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:06:28.228 [error] node #13: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2023-12-15 05:48:10.188 [error] node #14: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net
+2023-12-15 08:26:04.123 [error] node #15: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net

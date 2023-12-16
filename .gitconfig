@@ -1,0 +1,9 @@
+[push]
+	default = matching
+[alias]
+	co = checkout
+[init]
+	defaultBranch = projects
+[user]
+	name = rosebeni
+	email = rosebenila3@gmail.com

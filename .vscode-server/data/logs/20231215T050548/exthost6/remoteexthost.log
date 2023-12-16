@@ -1,0 +1,16 @@
+2023-12-15 08:30:27.381 [info] Extension host with pid 280470 started
+2023-12-15 08:30:27.396 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/5f74c2b904e8715d7659ed79e7832eda/vscode.lock': Lock acquired.
+2023-12-15 08:30:27.622 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-15 08:30:27.765 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-15 08:30:27.831 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-15 08:30:27.831 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-15 08:30:28.129 [info] Eager extensions activated
+2023-12-15 08:30:28.129 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-15 08:30:28.130 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-15 08:30:31.251 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2023-12-15 08:30:34.811 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+2023-12-15 08:32:07.761 [info] Extension host terminating: received terminate message from renderer
+2023-12-15 08:32:07.762 [info] Lock '/home/beni/.vscode-server/data/User/workspaceStorage/5f74c2b904e8715d7659ed79e7832eda/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-15 08:32:07.835 [info] Extension host with pid 280470 exiting with code 0

@@ -1,0 +1,14 @@
+2023-12-03 12:34:11.883 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-03 12:34:11.883 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-03 12:34:11.883 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-12-03 12:34:11.883 [info] Experiment 'pythonTestAdapter' is active
+2023-12-03 12:34:11.925 [info] Default formatter is set to null for workspace /var/www
+2023-12-03 12:34:12.478 [info] Test server listening.
+2023-12-03 12:34:12.503 [info] Python interpreter path: /usr/bin/python
+2023-12-03 12:34:14.693 [info] Starting Pylance language server.
+2023-12-03 12:36:59.723 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py
+2023-12-03 12:37:05.787 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py
+2023-12-03 12:39:34.196 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 12:59:08.759 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py
+2023-12-03 13:35:38.570 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py
+2023-12-03 13:45:41.238 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py

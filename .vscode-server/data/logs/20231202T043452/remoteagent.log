@@ -1,0 +1,45 @@
+2023-12-02 04:34:52.066 [info] 
+
+
+
+
+2023-12-02 04:34:52.066 [error] Error: Unable to retrieve mac address (unexpected format)
+    at I (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:85:3530)
+    at b (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7741)
+    at async /home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7617
+2023-12-02 04:34:52.082 [info] Extension host agent started.
+2023-12-02 04:34:52.217 [info] [127.0.0.1][81a2d3e0][ManagementConnection] New connection established.
+2023-12-02 04:34:52.286 [info] [127.0.0.1][fd671083][ExtensionHostConnection] New connection established.
+2023-12-02 04:34:52.433 [info] [127.0.0.1][fd671083][ExtensionHostConnection] <47225> Launched Extension Host Process.
+2023-12-02 04:35:17.137 [info] [127.0.0.1][81a2d3e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-02 04:35:17.165 [info] [127.0.0.1][fd671083][ExtensionHostConnection] <47225> Extension Host Process exited with code: 0, signal: null.
+2023-12-02 04:35:17.167 [info] Cancelling previous shutdown timeout
+2023-12-02 04:35:17.167 [info] Last EH closed, waiting before shutting down
+2023-12-02 04:35:29.225 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-02 04:35:29.225 [info] Cancelling previous shutdown timeout
+2023-12-02 04:35:29.435 [info] [127.0.0.1][a01a091d][ManagementConnection] New connection established.
+2023-12-02 04:35:29.545 [info] [127.0.0.1][5fd416de][ExtensionHostConnection] New connection established.
+2023-12-02 04:35:29.556 [info] [127.0.0.1][5fd416de][ExtensionHostConnection] <47374> Launched Extension Host Process.
+2023-12-02 04:40:29.227 [info] New EH opened, aborting shutdown
+2023-12-02 04:47:36.273 [info] [127.0.0.1][a01a091d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-02 04:47:36.322 [info] [127.0.0.1][5fd416de][ExtensionHostConnection] <47374> Extension Host Process exited with code: 0, signal: null.
+2023-12-02 04:47:36.323 [info] Last EH closed, waiting before shutting down
+2023-12-02 04:48:03.580 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-02 04:48:03.580 [info] Cancelling previous shutdown timeout
+2023-12-02 04:48:03.782 [info] [127.0.0.1][fd0f443f][ManagementConnection] New connection established.
+2023-12-02 04:48:03.913 [info] [127.0.0.1][40f74ab8][ExtensionHostConnection] New connection established.
+2023-12-02 04:48:03.931 [info] [127.0.0.1][40f74ab8][ExtensionHostConnection] <48308> Launched Extension Host Process.
+2023-12-02 04:48:15.601 [info] [127.0.0.1][fd0f443f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-02 04:48:15.653 [info] [127.0.0.1][40f74ab8][ExtensionHostConnection] <48308> Extension Host Process exited with code: 0, signal: null.
+2023-12-02 04:48:15.654 [info] Cancelling previous shutdown timeout
+2023-12-02 04:48:15.654 [info] Last EH closed, waiting before shutting down
+2023-12-02 04:48:24.333 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-02 04:48:24.333 [info] Cancelling previous shutdown timeout
+2023-12-02 04:48:24.531 [info] [127.0.0.1][66eeeef1][ManagementConnection] New connection established.
+2023-12-02 04:48:24.669 [info] [127.0.0.1][a9d0ebe9][ExtensionHostConnection] New connection established.
+2023-12-02 04:48:24.682 [info] [127.0.0.1][a9d0ebe9][ExtensionHostConnection] <48420> Launched Extension Host Process.
+2023-12-02 04:53:24.334 [info] New EH opened, aborting shutdown
+2023-12-02 04:54:21.949 [info] [127.0.0.1][66eeeef1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-02 04:54:21.999 [info] [127.0.0.1][a9d0ebe9][ExtensionHostConnection] <48420> Extension Host Process exited with code: 0, signal: null.
+2023-12-02 04:54:21.999 [info] Last EH closed, waiting before shutting down
+2023-12-02 04:59:21.999 [info] Last EH closed, shutting down

@@ -1,0 +1,27 @@
+2023-12-05 03:44:10.324 [info] Log level: Info
+2023-12-05 03:44:10.324 [info] Validating found git in: "git"
+2023-12-05 03:44:10.324 [info] Using git "2.34.1" from "git"
+2023-12-05 03:44:10.324 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-05 03:44:10.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-05 03:44:10.324 [info] > git rev-parse --show-toplevel [922ms]
+2023-12-05 03:44:10.324 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-05 03:44:10.324 [info] Open repository: /var/www/abac/crm/dcrm
+2023-12-05 03:44:10.324 [info] > git config --get commit.template [26ms]
+2023-12-05 03:44:10.324 [info] > git rev-parse --show-toplevel [90ms]
+2023-12-05 03:44:10.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-05 03:44:10.324 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2023-12-05 03:44:10.324 [info] > git rev-parse --show-toplevel [16ms]
+2023-12-05 03:44:10.324 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-05 03:44:10.325 [info] > git status -z -uall [20ms]
+2023-12-05 03:44:10.352 [info] > git rev-parse --show-toplevel [31ms]
+2023-12-05 03:44:10.352 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-05 03:44:10.356 [info] > git config --get commit.template [5ms]
+2023-12-05 03:44:10.371 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-12-05 03:44:10.390 [info] > git status -z -uall [6ms]
+2023-12-05 03:44:10.846 [info] > git show --textconv :dcrm/settings.py [41ms]
+2023-12-05 03:44:10.846 [info] > git check-ignore -v -z --stdin [5ms]
+2023-12-05 03:44:10.849 [info] > git ls-files --stage -- /var/www/abac/crm/dcrm/dcrm/settings.py [31ms]
+2023-12-05 03:44:10.863 [info] > git cat-file -s c942f98584855e2cf8f63324a6c7b3294eb8d089 [2ms]
+2023-12-05 03:45:26.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [286ms]
+2023-12-05 03:45:26.504 [info] > git config --get commit.template [14271ms]
+2023-12-05 03:45:26.729 [info] > git status -z -uall [192ms]

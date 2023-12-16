@@ -1,0 +1,44 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:32781 (IPv4)
+Extension host agent listening on 32781
+
+[10:39:50] 
+
+
+
+
+[10:39:50] Error: Unable to retrieve mac address (unexpected format)
+    at P (/home/beni/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/server/node/server.main.js:85:3530)
+    at w (/home/beni/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/server/node/server.main.js:85:4586)
+    at async /home/beni/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/out/vs/server/node/server.main.js:85:4462
+[10:39:50] Extension host agent started.
+[10:39:50] [127.0.0.1][cb708fba][ManagementConnection] New connection established.
+[10:39:50] [127.0.0.1][964f4642][ExtensionHostConnection] New connection established.
+[10:39:50] [127.0.0.1][964f4642][ExtensionHostConnection] <1652073> Launched Extension Host Process.
+[10:40:00] [127.0.0.1][cb708fba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:40:01] [127.0.0.1][964f4642][ExtensionHostConnection] <1652073> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:40:01] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[10:40:01] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[10:40:27] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[10:40:27] Cancelling previous shutdown timeout
+[10:40:28] [127.0.0.1][e0ab9afb][ManagementConnection] New connection established.
+[10:40:28] [127.0.0.1][2b50e95b][ExtensionHostConnection] New connection established.
+[10:40:28] [127.0.0.1][2b50e95b][ExtensionHostConnection] <1652225> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[10:45:27] New EH opened, aborting shutdown
+[10:48:02] [127.0.0.1][e0ab9afb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:48:02] [127.0.0.1][2b50e95b][ExtensionHostConnection] <1652225> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:48:02] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[10:53:02] Last EH closed, shutting down

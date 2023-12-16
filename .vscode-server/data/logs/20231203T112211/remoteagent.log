@@ -1,0 +1,46 @@
+2023-12-03 11:22:11.142 [info] 
+
+
+
+
+2023-12-03 11:22:11.142 [error] Error: Unable to retrieve mac address (unexpected format)
+    at I (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:85:3530)
+    at b (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7741)
+    at async /home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7617
+2023-12-03 11:22:11.156 [info] Extension host agent started.
+2023-12-03 11:22:11.288 [info] [127.0.0.1][8de045cb][ManagementConnection] New connection established.
+2023-12-03 11:22:11.368 [info] [127.0.0.1][2488bbd7][ExtensionHostConnection] New connection established.
+2023-12-03 11:22:11.495 [info] [127.0.0.1][2488bbd7][ExtensionHostConnection] <118257> Launched Extension Host Process.
+2023-12-03 11:22:26.526 [info] [127.0.0.1][8de045cb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-03 11:22:26.562 [info] [127.0.0.1][2488bbd7][ExtensionHostConnection] <118257> Extension Host Process exited with code: 0, signal: null.
+2023-12-03 11:22:26.562 [info] Cancelling previous shutdown timeout
+2023-12-03 11:22:26.562 [info] Last EH closed, waiting before shutting down
+2023-12-03 11:23:14.302 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-03 11:23:14.303 [info] Cancelling previous shutdown timeout
+2023-12-03 11:23:14.520 [info] [127.0.0.1][c88df6e7][ManagementConnection] New connection established.
+2023-12-03 11:23:14.716 [info] [127.0.0.1][0c4c73d4][ExtensionHostConnection] New connection established.
+2023-12-03 11:23:14.727 [info] [127.0.0.1][0c4c73d4][ExtensionHostConnection] <118374> Launched Extension Host Process.
+2023-12-03 11:23:24.406 [info] Getting Manifest... ms-python.python
+2023-12-03 11:23:25.802 [info] Installing extension: ms-python.python
+2023-12-03 11:23:27.937 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-03 11:23:28.764 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-12-03 11:23:33.499 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-12-03 11:23:36.519 [info] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.python-2023.20.0: ms-python.python
+2023-12-03 11:23:36.532 [info] Renamed to /home/beni/.vscode-server/extensions/ms-python.python-2023.20.0
+2023-12-03 11:23:36.538 [info] Extracting extension completed. ms-python.python
+2023-12-03 11:23:40.932 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-12-03 11:23:45.425 [info] Extracted extension to file:///home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-12-03 11:23:45.650 [info] Renamed to /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10
+2023-12-03 11:23:45.654 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-03 11:23:45.660 [info] Extension installed successfully: ms-python.python
+2023-12-03 11:23:45.661 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-03 11:28:14.303 [info] New EH opened, aborting shutdown
+2023-12-03 12:08:44.315 [info] [127.0.0.1][0c4c73d4][ExtensionHostConnection] The client has reconnected.
+2023-12-03 12:25:58.477 [info] [127.0.0.1][77b6a598][ManagementConnection] New connection established.
+2023-12-03 12:25:58.585 [info] [127.0.0.1][1a0e2527][ExtensionHostConnection] New connection established.
+2023-12-03 12:25:58.596 [info] [127.0.0.1][1a0e2527][ExtensionHostConnection] <121359> Launched Extension Host Process.
+2023-12-03 12:30:59.495 [info] [127.0.0.1][0c4c73d4][ExtensionHostConnection] <118374> Extension Host Process exited with code: 0, signal: null.
+2023-12-03 14:29:22.950 [info] [127.0.0.1][77b6a598][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-03 14:29:23.054 [info] [127.0.0.1][1a0e2527][ExtensionHostConnection] <121359> Extension Host Process exited with code: 0, signal: null.
+2023-12-03 14:29:23.054 [info] Last EH closed, waiting before shutting down
+2023-12-03 14:34:23.055 [info] Last EH closed, shutting down

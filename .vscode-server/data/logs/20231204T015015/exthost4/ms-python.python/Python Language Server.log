@@ -1,0 +1,8 @@
+2023-12-04 04:42:40.447 [info] [Info  - 4:42:40 AM] (160166) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-04 04:42:40.448 [info] [Info  - 4:42:40 AM] (160166) Server root directory: /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-04 04:42:40.452 [info] [Info  - 4:42:40 AM] (160166) Starting service instance "www"
+2023-12-04 04:42:40.530 [info] [Info  - 4:42:40 AM] (160166) Setting pythonPath for service "www": "/usr/bin/python"
+2023-12-04 04:42:40.530 [info] [Info  - 4:42:40 AM] (160166) Setting environmentName for service "www": "3.10.12 (global)"
+2023-12-04 04:42:40.573 [info] [Info  - 4:42:40 AM] (160166) Assuming Python version 3.10
+2023-12-04 04:42:40.663 [info] [Info  - 4:42:40 AM] (160166) Auto-excluding /var/www/abac/crm/myworld
+2023-12-04 04:42:40.671 [info] [Info  - 4:42:40 AM] (160166) Found 20 source files

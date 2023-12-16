@@ -1,0 +1,39 @@
+2023-12-04 04:42:38.162 [info] Log level: Info
+2023-12-04 04:42:38.162 [info] Validating found git in: "git"
+2023-12-04 04:42:38.162 [info] Using git "2.34.1" from "git"
+2023-12-04 04:42:38.162 [info] > git rev-parse --show-toplevel [16ms]
+2023-12-04 04:42:38.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-04 04:42:38.162 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-04 04:42:38.162 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-04 04:42:38.162 [info] Open repository: /var/www/abac/crm/dcrm
+2023-12-04 04:42:38.162 [info] > git config --get commit.template [21ms]
+2023-12-04 04:42:38.162 [info] No remotes found in the git config file.
+2023-12-04 04:42:38.162 [info] > git rev-parse --show-toplevel [20ms]
+2023-12-04 04:42:38.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-04 04:42:38.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [28ms]
+2023-12-04 04:42:38.162 [info] > git rev-parse --show-toplevel [43ms]
+2023-12-04 04:42:38.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-04 04:42:38.162 [info] > git status -z -uall [48ms]
+2023-12-04 04:42:38.162 [info] > git rev-parse --show-toplevel [46ms]
+2023-12-04 04:42:38.162 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-04 04:42:38.162 [info] No remotes found in the git config file.
+2023-12-04 04:42:38.162 [info] > git config --get commit.template [34ms]
+2023-12-04 04:42:38.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [58ms]
+2023-12-04 04:42:38.163 [info] > git status -z -uall [13ms]
+2023-12-04 04:42:39.043 [info] > git check-ignore -v -z --stdin [52ms]
+2023-12-04 04:42:39.156 [info] > git show --textconv :dcrm/settings.py [16ms]
+2023-12-04 04:42:39.162 [info] > git ls-files --stage -- /var/www/abac/crm/dcrm/dcrm/settings.py [6ms]
+2023-12-04 04:45:38.531 [info] No remotes found in the git config file.
+2023-12-04 04:45:38.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [1ms]
+2023-12-04 04:45:38.533 [info] > git config --get commit.template [14ms]
+2023-12-04 04:45:38.547 [info] > git status -z -uall [3ms]
+2023-12-04 04:45:38.676 [info] > git ls-files --stage -- /var/www/abac/crm/dcrm/dcrm/settings.py [11ms]
+2023-12-04 04:45:38.690 [info] > git cat-file -s c942f98584855e2cf8f63324a6c7b3294eb8d089 [3ms]
+2023-12-04 04:45:38.760 [info] > git show --textconv :dcrm/settings.py [2ms]
+2023-12-04 04:46:01.343 [info] No remotes found in the git config file.
+2023-12-04 04:46:01.344 [info] > git config --get commit.template [15ms]
+2023-12-04 04:46:01.344 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/projects refs/remotes/projects [2ms]
+2023-12-04 04:46:01.364 [info] > git status -z -uall [8ms]
+2023-12-04 04:46:01.481 [info] > git ls-files --stage -- /var/www/abac/crm/dcrm/dcrm/settings.py [3ms]
+2023-12-04 04:46:01.498 [info] > git cat-file -s c942f98584855e2cf8f63324a6c7b3294eb8d089 [1ms]
+2023-12-04 04:46:01.575 [info] > git show --textconv :dcrm/settings.py [2ms]

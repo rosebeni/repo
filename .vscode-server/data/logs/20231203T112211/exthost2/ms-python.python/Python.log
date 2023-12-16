@@ -1,0 +1,38 @@
+2023-12-03 11:23:46.811 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-12-03 11:23:46.811 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-12-03 11:23:46.811 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-12-03 11:23:46.811 [info] Experiment 'pythonTestAdapter' is active
+2023-12-03 11:23:46.869 [info] Default formatter is set to null for workspace /var/www
+2023-12-03 11:23:47.326 [info] Test server listening.
+2023-12-03 11:23:47.400 [info] > python -c "import sys;print(sys.executable)"
+2023-12-03 11:23:47.525 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:47.562 [info] > /usr/bin/python -I ~/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-03 11:23:48.243 [info] Python interpreter path: /usr/bin/python
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-03 11:23:48.248 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-03 11:23:48.249 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:48.249 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-03 11:23:49.662 [info] Starting Pylance language server.
+2023-12-03 11:38:56.273 [info] DAP Server launched with command: /usr/bin/python /home/beni/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-12-03 11:38:56.378 [info] CreateEnv Trigger - Skipping for /var/www
+2023-12-03 11:38:58.042 [info] Send text to terminal:  /usr/bin/env /usr/bin/python /home/beni/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 39541 -- /var/www/abac/crm/dcrm/mydb.py 
+2023-12-03 11:40:23.625 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 11:40:48.555 [info] Send text to terminal: /usr/bin/python /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 11:40:48.557 [warning] Failed to check if python is an executable [Error: ENOENT: no such file or directory, lstat 'python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python'
+}
+2023-12-03 11:40:48.573 [info] > python -I ~/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-03 11:43:48.724 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 11:44:01.099 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 11:50:01.925 [info] Send text to terminal: /usr/bin/python /var/www/abac/crm/dcrm/mydb.py
+2023-12-03 11:54:11.837 [info] Discover tests for workspace name: www - uri: /var/www/abac/crm/dcrm/dcrm/settings.py

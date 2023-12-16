@@ -1,0 +1,13 @@
+2023-12-15 05:06:20.987 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2023-12-15 05:06:21.659 [info] [Info  - 5:06:21 AM] (271721) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2023-12-15 05:06:21.660 [info] [Info  - 5:06:21 AM] (271721) Server root directory: /home/beni/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2023-12-15 05:06:21.660 [info] [Info  - 5:06:21 AM] (271721) Starting service instance "www"
+2023-12-15 05:06:21.734 [info] [Info  - 5:06:21 AM] (271721) Setting pythonPath for service "www": "/usr/bin/python"
+2023-12-15 05:06:21.734 [info] [Info  - 5:06:21 AM] (271721) Setting environmentName for service "www": "3.10.12 (global)"
+2023-12-15 05:06:21.804 [info] [Info  - 5:06:21 AM] (271721) Assuming Python version 3.10
+2023-12-15 05:06:21.906 [info] [Info  - 5:06:21 AM] (271721) Auto-excluding /var/www/abac/crm/myworld
+2023-12-15 05:06:21.918 [info] [Info  - 5:06:21 AM] (271721) Found 20 source files
+2023-12-15 05:06:26.393 [info] [Info  - 5:06:26 AM] (271721) [IDX(2)] Long operation: index execution environment /var/www (2125ms)
+2023-12-15 05:06:26.398 [info] [Info  - 5:06:26 AM] (271721) [IDX(2)] Long operation: index packages /var/www (2143ms)
+2023-12-15 05:06:26.550 [info] [Info  - 5:06:26 AM] (271721) [BG(1)] Long operation: checking: /var/www/abac/crm/dcrm/mydb.py (3167ms)
+2023-12-15 05:06:26.550 [info] [Info  - 5:06:26 AM] (271721) [BG(1)] Long operation: analyzing: /var/www/abac/crm/dcrm/mydb.py (3596ms)

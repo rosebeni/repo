@@ -1,0 +1,28 @@
+2023-12-01 03:11:45.161 [info] 
+
+
+
+
+2023-12-01 03:11:45.161 [error] Error: Unable to retrieve mac address (unexpected format)
+    at I (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:85:3530)
+    at b (/home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7741)
+    at async /home/beni/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:91:7617
+2023-12-01 03:11:45.161 [info] Extension host agent started.
+2023-12-01 03:11:45.237 [info] [127.0.0.1][8c16a104][ManagementConnection] New connection established.
+2023-12-01 03:11:45.318 [info] [127.0.0.1][a5599597][ExtensionHostConnection] New connection established.
+2023-12-01 03:11:45.474 [info] [127.0.0.1][a5599597][ExtensionHostConnection] <10167> Launched Extension Host Process.
+2023-12-01 03:12:04.546 [info] [127.0.0.1][8c16a104][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-01 03:12:04.586 [info] [127.0.0.1][a5599597][ExtensionHostConnection] <10167> Extension Host Process exited with code: 0, signal: null.
+2023-12-01 03:12:04.586 [info] Cancelling previous shutdown timeout
+2023-12-01 03:12:04.586 [info] Last EH closed, waiting before shutting down
+2023-12-01 03:12:10.178 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-12-01 03:12:10.178 [info] Cancelling previous shutdown timeout
+2023-12-01 03:12:10.389 [info] [127.0.0.1][2d5f727a][ManagementConnection] New connection established.
+2023-12-01 03:12:10.497 [info] [127.0.0.1][900c4673][ExtensionHostConnection] New connection established.
+2023-12-01 03:12:10.507 [info] [127.0.0.1][900c4673][ExtensionHostConnection] <10284> Launched Extension Host Process.
+2023-12-01 03:17:10.179 [info] New EH opened, aborting shutdown
+2023-12-01 03:50:18.996 [info] [127.0.0.1][900c4673][ExtensionHostConnection] The client has reconnected.
+2023-12-01 03:58:05.598 [info] [127.0.0.1][59d04535][ManagementConnection] New connection established.
+2023-12-01 03:58:05.716 [info] [127.0.0.1][32258df5][ExtensionHostConnection] New connection established.
+2023-12-01 03:58:05.733 [info] [127.0.0.1][32258df5][ExtensionHostConnection] <12618> Launched Extension Host Process.
+2023-12-01 04:03:07.669 [info] [127.0.0.1][900c4673][ExtensionHostConnection] <10284> Extension Host Process exited with code: 0, signal: null.
